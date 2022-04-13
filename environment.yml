@@ -1,0 +1,16 @@
+name: ligo
+
+channels:
+  - defaults
+
+dependencies:
+  - python=2.7
+
+  - decorator=4.4
+  - h5py=2.10
+  - ipykernel=4.8
+  - ipython=5.8
+  - matplotlib=2.2
+  - numpy=1.16
+  - scipy=1.2
+  
